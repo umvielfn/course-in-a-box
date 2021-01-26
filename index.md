@@ -3,10 +3,10 @@ layout: index
 published: true
 ---
 
-Course-in-a-Box is a free tool for building and publishing online courses—no prior coding experience required. This guide was made using Course-in-a-Box, so what you see here is what you’ll start with. There are three modules that walk through the course creation process, all linked in the nav bar at the top of the page:
-* **[Setup](/modules/setup/getting-started/)** - Get your instance of Course-in-a-Box up and running
-* **[Content](/modules/content/markdown-and-media)** -  Update the course structure and add your copy & media
-* **[Customize](/modules/customize/favicon)** - Add some (optional) finishing touches
+This guide will provide resources and instructions to walk you through the installation, use, and customization of the BitCurator environment.
+* **[Installation](/modules/setup/getting-started/)** - Find the software you need, and the steps to take to install BitCurator as a virtual machine on your computer.
+* **[The BitCurator Environment](/modules/content/markdown-and-media)** -  Learn how to use the tools pre-installed in the BitCurator environment.
+* **[Customization](/modules/customize/favicon)** - Learn how to install new tools and software in BitCurator using the Terminal.
 
 <br> 
 
